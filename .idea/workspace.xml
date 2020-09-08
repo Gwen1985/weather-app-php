@@ -6,11 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8745424e-dbce-45bc-bbfe-9a97c1391f53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/weather-app-php.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/canvas.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dayInfo.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
@@ -58,8 +54,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599593863068</updated>
       <workItem from="1599593864990" duration="44000" />
-      <workItem from="1599593952584" duration="415000" />
+      <workItem from="1599593952584" duration="1077000" />
     </task>
+    <task id="LOCAL-00001" summary="added all files at once">
+      <created>1599595134894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599595134894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +80,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added all files at once" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all files at once" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599594298758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1599594298758" />
   </component>
 </project>
